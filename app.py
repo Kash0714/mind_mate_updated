@@ -57,7 +57,6 @@ def sanitize(text):
             return ""
     return text
 
-# ================= GMAIL =================
 def get_credentials():
     try:
         t = st.secrets["gmail_token"]
