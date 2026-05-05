@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-groq
+langgraph
+langgraph-supervisor
+google-api-python-client
+google-auth
+google-auth-oauthlib
+pydantic
